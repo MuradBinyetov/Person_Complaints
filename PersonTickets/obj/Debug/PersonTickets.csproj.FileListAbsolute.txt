@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\testForm\PersonTickets\bin\Debug\PersonTickets.exe.config
+C:\Users\User\source\repos\testForm\PersonTickets\bin\Debug\PersonTickets.exe
+C:\Users\User\source\repos\testForm\PersonTickets\bin\Debug\PersonTickets.pdb
+C:\Users\User\source\repos\testForm\PersonTickets\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\testForm\PersonTickets\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\testForm\PersonTickets\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\testForm\PersonTickets\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\testForm\PersonTickets\obj\Debug\PersonTickets.csprojAssemblyReference.cache
+C:\Users\User\source\repos\testForm\PersonTickets\obj\Debug\PersonTickets.Form1.resources
+C:\Users\User\source\repos\testForm\PersonTickets\obj\Debug\PersonTickets.Properties.Resources.resources
+C:\Users\User\source\repos\testForm\PersonTickets\obj\Debug\PersonTickets.csproj.GenerateResource.cache
+C:\Users\User\source\repos\testForm\PersonTickets\obj\Debug\PersonTickets.csproj.CopyComplete
+C:\Users\User\source\repos\testForm\PersonTickets\obj\Debug\PersonTickets.exe
+C:\Users\User\source\repos\testForm\PersonTickets\obj\Debug\PersonTickets.pdb
